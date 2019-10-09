@@ -1,0 +1,3 @@
+- Install tslint
+- Install tslint-config-prettier so you don't get conflicts with prettier (from VSCode)
+- Copy over tslint.json

@@ -1,0 +1,5 @@
+- Install "typescript" with your package manager of choice.
+- Include the tsconfig.json
+- **Note**: This version is configured to support JSX out of the box.
+- Possible additons:
+  - tslint: Provides linting

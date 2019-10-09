@@ -1,0 +1,4 @@
+- Install webpack
+- If using typescript install ts-loader
+- If using CSS install style-loader, css-loader
+- Copy over webpack.config.js
